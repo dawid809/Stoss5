@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stoss", "Stoss\Stoss.csproj", "{E702054E-ADBE-4C06-80B4-6313022AC2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectStos", "UnitTestProjectStos\UnitTestProjectStos.csproj", "{352FBAF6-83BB-45A9-B7C5-12C6686594AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E702054E-ADBE-4C06-80B4-6313022AC2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E702054E-ADBE-4C06-80B4-6313022AC2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E702054E-ADBE-4C06-80B4-6313022AC2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E702054E-ADBE-4C06-80B4-6313022AC2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352FBAF6-83BB-45A9-B7C5-12C6686594AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352FBAF6-83BB-45A9-B7C5-12C6686594AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352FBAF6-83BB-45A9-B7C5-12C6686594AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352FBAF6-83BB-45A9-B7C5-12C6686594AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C29E3A-8259-443D-A312-655F184F0214}
+	EndGlobalSection
+EndGlobal
